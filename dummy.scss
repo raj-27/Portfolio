@@ -152,6 +152,10 @@ $secondry-color:#222222;
                 align-items: center;
                 margin: 5% 0 0 0;
                 padding: 1rem 0 0 0;
+                a {
+                    list-style: none;
+                    text-decoration: none;
+                }
                 .mycol {
                     box-shadow: 0 0 .2rem rgba($color: #000000, $alpha: .5), 0 0 .5rem rgba($color: #fff, $alpha: .4);
                     height: 250px;

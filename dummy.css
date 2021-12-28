@@ -183,6 +183,11 @@
   padding: 1rem 0 0 0;
 }
 
+.box .slide3 .container .row a {
+  list-style: none;
+  text-decoration: none;
+}
+
 .box .slide3 .container .row .mycol {
   -webkit-box-shadow: 0 0 0.2rem rgba(0, 0, 0, 0.5), 0 0 0.5rem rgba(255, 255, 255, 0.4);
           box-shadow: 0 0 0.2rem rgba(0, 0, 0, 0.5), 0 0 0.5rem rgba(255, 255, 255, 0.4);
